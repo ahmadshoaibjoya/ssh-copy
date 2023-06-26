@@ -4,7 +4,7 @@ Script Name: ssh-copy
 Author: Ahmad Shoaib Joya
 Date: 26.06.2023
 Version: v1.0.0
-Descriptioin: This script is for Copying the SSH Key to the remote Hosts with same username and password.
+Descriptioin: This script is for Copying the SSH Key to the remote Hosts which have same username and password.
 '
  
 # The Script requires your inventory file as input. Your inventory file must have IPs of remote hosts.  

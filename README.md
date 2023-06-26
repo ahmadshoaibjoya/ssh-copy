@@ -1,5 +1,5 @@
 # ssh-copy
-Using ssh-copy, you can copy the ssh key to your remote hosts with the same username and password.
+Using ssh-copy, you can copy the ssh key to your remote hosts which have same username and password.
 Suppose you have more than one or two remote hosts, manual copying will be boring and time-consuming. But with this script, all you need to do is just executing this script.
 This is helpful for you if you are [Ansible] user.
 - Add your ssh key path to key_path variable of script.
